@@ -24,5 +24,5 @@ jobs:
         java-version: '17'
         distribution: ${{ matrix.jdk }}
     - name: Build with Maven
-      run: ./mvnw -B verify
+      run: ./mvnw -B -D verify
 
