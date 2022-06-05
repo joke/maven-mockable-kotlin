@@ -29,7 +29,7 @@ dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
     testImplementation 'org.spockframework:spock-core:2.1-groovy-3.0'
     testImplementation 'org.spockframework:spock-guice:2.1-groovy-3.0'
-    testImplementation 'io.github.joke:spock-mockable:1.5.3'
+    testImplementation 'io.github.joke:spock-mockable:1.5.4'
     testImplementation 'org.objenesis:objenesis:3.1'
     testImplementation 'org.slf4j:slf4j-simple:1.7.36'
 }
